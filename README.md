@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jianganping61. A computer science student.
+- 👀 I’m interested in Python and data analysis.  
+- 🌱 I’m always looking for the next big challenge.
